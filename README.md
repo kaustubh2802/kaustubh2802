@@ -7,6 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+PHP+%7C+JavaScript;DevOps+%7C+Docker+%7C+Linux;Trading+Strategy+Developer;Building+Parees+Tech+Bees+IT+Empire" />
 </p>
 
+
 ---
 
 ## 🧠 About Me
@@ -51,6 +52,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
+
+---
+## 🐍 Contribution Snake
+
+![snake](https://raw.githubusercontent.com/kaustubh2802/kaustubh2802/output/github-contribution-grid-snake.svg)
 
 ---
 
